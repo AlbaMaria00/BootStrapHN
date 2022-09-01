@@ -1,0 +1,29 @@
+footer {
+    display: flex;
+}
+
+footer p img {
+    width: 20px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact p{
+    display: flex;
+}
+
+.copy {
+    display: flex;
+    align-items: center;
+}
+
+.copy p{
+    margin-left: 3em;
+}
+
+.container img{
+    width: 25%;
+}

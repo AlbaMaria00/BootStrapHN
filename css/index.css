@@ -1,0 +1,58 @@
+header div img {
+    display: block;
+    width: 40%;
+}
+
+.photos img:nth-child(2n) {
+    margin-left: 50%;
+}
+
+.aboutus>* {
+    width: auto;
+    display: block;
+}
+
+.photos {
+    border-left: 1px solid black;
+}
+
+.photos img{
+    width: 50%;
+}
+
+.aboutus h1 {
+    text-align: center;
+}
+
+.aboutus img {
+    width: 50%;
+    display: block;
+    margin: auto;
+    padding: 1em;
+}
+
+footer {
+    display: flex;
+}
+
+footer p img {
+    width: 20px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact p{
+    display: flex;
+}
+
+.copy {
+    display: flex;
+    align-items: center;
+}
+
+.copy p{
+    margin-left: 3em;
+}

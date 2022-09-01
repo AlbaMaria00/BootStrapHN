@@ -1,0 +1,35 @@
+footer {
+    display: flex;
+}
+
+footer p img {
+    width: 20px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact p {
+    display: flex;
+}
+
+.copy {
+    display: flex;
+    align-items: center;
+}
+
+.copy p{
+    margin-left: 3em;
+}
+
+form {
+    width: 30%;
+    margin: auto;
+}
+
+.submit{
+    margin: 1em;
+    margin-left: 4em;
+}
